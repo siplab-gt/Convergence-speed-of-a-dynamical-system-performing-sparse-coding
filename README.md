@@ -1,0 +1,1 @@
+# Convergence-speed-of-a-dynamical-system-performing-sparse-coding
